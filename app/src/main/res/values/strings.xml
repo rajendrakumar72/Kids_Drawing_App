@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="image_small">image_small</string>
+    <string name="medium_button">medium_button</string>
+    <string name="large_button">large_button</string>
+    <string name="imagebrush">imageBrush</string>
+    <string name="color_pallet">color_pallet</string>
+    <string name="btngalleryopen">btnGalleryOpen</string>
+    <string name="backgroundimage">backgroundImage</string>
+</resources>
